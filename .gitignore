@@ -1,0 +1,20 @@
+# IDEs
+.idea/
+.vscode/
+
+# Build folders
+build/
+*.class
+.gradle/
+
+# Gradle Wrapper (CourseBot hates these!)
+gradle/
+gradlew
+gradlew.bat
+
+# Mac system files
+.DS_Store
+**/.DS_Store
+
+# Ignore local test screenshots
+*.png
